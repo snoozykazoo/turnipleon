@@ -7596,7 +7596,7 @@
                         onClick: function () {
                             !function (e, t, n, r, a, o, i) {
                                 var l = t ? "\ud83c\udf31" : T[e.length - 1],
-                                    u = "https://www.turnipleon.com/ #".concat(U, " ").concat(l, " ").concat(t ? "X" : e.length, "/").concat(6).concat(n ? "\ud83d\udd38" : "", "\n\n") + dn(e, mn(r, a)) + "\nStreak: " + o,
+                                    u = "https://turnipleon.snoozykazoo.com/ #".concat(U, " ").concat(l, " ").concat(t ? "X" : e.length, "/").concat(6).concat(n ? "\ud83d\udd38" : "", "\n\n") + dn(e, mn(r, a)) + "\nStreak: " + o,
                                     s = {text: u}, c = !1;
                                 try {
                                     pn(s) && (navigator.share(s), c = !0)
